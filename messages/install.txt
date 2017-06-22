@@ -1,0 +1,21 @@
+gislacks
+==============================
+Thank you for installing gislacks. This is a plugin of Sublime Text 3 for submitting files to both Gist and Slack.
+
+
+Initial settings
+------------------------------
+This plugin is constructed with following 2 tools. One is the plugin for Sublime Text 3. Another is a CLI tool which is the interface between Sublime Text and Gist, Slack.
+
+After install this plugin gislacks, please check How to install here.
+
+https://github.com/tanaikech/gislacks#install
+
+
+Contact
+------------------------------
+If you have any questions and suggestions, feel free to tell me using e-mail.
+
+e-mail : tanaike@hotmail.com
+
+GitHub : https://github.com/tanaikech/gislacks

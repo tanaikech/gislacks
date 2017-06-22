@@ -1,0 +1,16 @@
+{
+    "schema_version": "1.0.0",
+    "packages": [{
+        "name": "gislacks",
+        "details": "https://github.com/tanaikech/gislacks",
+        "description": "gislacks - This is a plugin of Sublime Text 3 for submitting files to both Gist and Slack.",
+        "author": "tanaike",
+        "homepage": "https://tanaikech.github.io/",
+        "releases": [
+            {
+                "sublime_text": "*",
+                "tags": true
+            }
+        ]
+    }]
+}

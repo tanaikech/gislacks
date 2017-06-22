@@ -1,0 +1,16 @@
+// gislack default settings.
+//
+{
+    // Path of gislack which is an execution file made by golang.
+    // If gislack is put in defined path, it is not necessary to set this.
+    "gislack_path": "",
+
+    // Path of gislack.cfg. If you want to use gislack.cfg at except for current working directory, please use this.
+    // If gislack.cfg is put in current working directory, it is not necessary to set this.
+    // This path is used with the highest priority.
+    "gislack_cfgpath": "",
+
+    // Channel on Slack. This is a channel name you want to submit.
+    // For channel name, the top `#` is not required.
+    "slack_channel": "general",
+}

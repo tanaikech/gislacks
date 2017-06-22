@@ -1,0 +1,42 @@
+[
+    {
+        "caption": "gislacks: Submit to Gist (update) and Slack",
+        "command": "gislacks_udouble",
+    },
+    {
+        "caption": "gislacks: Submit to Gist and Slack",
+        "command": "gislacks_double",
+    },
+    {
+        "caption": "gislacks: Submit to Gist",
+        "command": "gislacks_gist",
+    },
+    {
+        "caption": "gislacks: Submit to Slack",
+        "command": "gislacks_slack",
+    },
+    {
+        "caption": "gislacks: Get Gists",
+        "command": "gislacks_getgists",
+    },
+    {
+        "caption": "gislacks: Update Gists",
+        "command": "gislacks_updategist",
+    },
+    {
+        "caption": "gislacks: Get Gist History",
+        "command": "gislacks_getgisthistory",
+    },
+    {
+        "caption": "gislacks: Get Slack Files",
+        "command": "gislacks_getslackfiles",
+    },
+    {
+        "caption": "gislacks: Authorization Gist",
+        "command": "gislacks_authgist",
+    },
+    {
+        "caption": "gislacks: Authorization Slack",
+        "command": "gislacks_authslack",
+    }
+]
