@@ -110,6 +110,10 @@ At first, please modify ``gislacks.sublime-settings`` at Preferences -> Package 
     // This path is used with the highest priority.
     "gislack_cfgpath": "",
 
+    // This parameter is used for submitting to Gist. When you want to submit a file to Gist as public,
+    // please modify this parameter to "true". Default is false. So your file is submitted as private.
+    "gist_public": false,
+
     // Channel on Slack. This is a channel name you want to submit.
     // For channel name, the top `#` is not required.
     "slack_channel": "general",
@@ -228,5 +232,9 @@ gislack can be controlled by JSON data. Using this, gislack may be used except f
 * v1.0.1 (June 22, 2017)
 
     Modified Key Bindings.
+
+* v1.0.2 (June 23, 2017)
+
+    Added an option for submitting to Gist as public.
 
 [TOP](#TOP)

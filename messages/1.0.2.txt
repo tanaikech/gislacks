@@ -1,0 +1,15 @@
+gislacks
+==============================
+
+June 23, 2017 - version 1.0.2
+
+- Added an option for submitting to Gist as public
+
+
+Contact
+------------------------------
+If you have any questions and suggestions, feel free to tell me using e-mail.
+
+e-mail : tanaike@hotmail.com
+
+GitHub : https://github.com/tanaikech/gislacks

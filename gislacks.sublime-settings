@@ -1,7 +1,7 @@
 // gislack default settings.
 //
 {
-    // Path of gislack which is an execution file made by golang.
+    // Path of gislack which is an execution file made by Golang.
     // If gislack is put in defined path, it is not necessary to set this.
     "gislack_path": "",
 
@@ -9,6 +9,10 @@
     // If gislack.cfg is put in current working directory, it is not necessary to set this.
     // This path is used with the highest priority.
     "gislack_cfgpath": "",
+
+    // This parameter is used for submitting to Gist. When you want to submit a file to Gist as public,
+    // please modify this parameter to "true". Default is false. So your file is submitted as private.
+    "gist_public": false,
 
     // Channel on Slack. This is a channel name you want to submit.
     // For channel name, the top `#` is not required.

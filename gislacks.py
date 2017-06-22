@@ -5,7 +5,9 @@
     Submitter of text files from Sublime Text to Gist and Slack.
     This can submit editing a text file at Sublime Text to Gist, Slack and both.
     https://github.com/tanaikech/gislacks
-    June 22, 2017 - version 1.0.0
+    June 22, 2017 - version 1.0.0 Initial release
+    June 22, 2017 - version 1.0.1 Modified Key Bindings
+    June 23, 2017 - version 1.0.2 Added an option for submitting to Gist as public
 """
 
 import sublime
@@ -311,6 +313,7 @@ class GislacksUdoubleCommand(sublime_plugin.TextCommand):
                             "cfgdirectory": g.settings.get("gislack_cfgpath"),
                             "file": g.fullpath,
                             "title": os.path.basename(g.fullpath),
+                            "public": g.settings.get("gist_public"),
                             "channel": g.settings.get("slack_channel")
                         }
                     })
@@ -349,6 +352,7 @@ class GislacksDoubleCommand(sublime_plugin.TextCommand):
                         "file": g.fullpath,
                         "title": os.path.basename(g.fullpath),
                         "channel": g.settings.get("slack_channel"),
+                        "public": g.settings.get("gist_public"),
                         "simpleresult": True
                     }
                 })
@@ -375,7 +379,8 @@ class GislacksGistCommand(sublime_plugin.TextCommand):
                 "options": {
                     "cfgdirectory": g.settings.get("gislack_cfgpath"),
                     "files": g.fullpath,
-                    "title": os.path.basename(g.fullpath)
+                    "title": os.path.basename(g.fullpath),
+                    "public": g.settings.get("gist_public")
                 }
             })
             if "Error" in res:
