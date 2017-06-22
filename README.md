@@ -35,6 +35,15 @@ This plugin is constructed with following 2 tools.
 ## 1. Install gislacks
 This is the plugin for Sublime Text 3.
 
+This was published at [https://packagecontrol.io/packages/gislacks](https://packagecontrol.io/packages/gislacks).
+
+1. Launch Sublime Text
+1. Preferences -> Package Control -> Package Control: Install Package
+1. Choose gislacks
+
+
+If you want to install directory the repository, you can use as following flow.
+
 1. Open Package Control by ``ctrl+shift+p`` (Windows, Linux) or ``cmd+shift+p`` (OS X)
 1. Select Add Repository at Package Control.
 1. Input [https://github.com/tanaikech/gislacks](https://github.com/tanaikech/gislacks). This is a repository of gislacks on GitHub.
