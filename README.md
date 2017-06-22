@@ -214,5 +214,8 @@ gislack can be controlled by JSON data. Using this, gislack may be used except f
 
     Initial release.
 
+* v1.0.1 (June 22, 2017)
+
+    Modify Key Bindings.
 
 [TOP](#TOP)
