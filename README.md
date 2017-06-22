@@ -109,7 +109,7 @@ At first, please modify ``gislacks.sublime-settings`` at Preferences -> Package 
 ## 2. Authorization
 As a next step, <u>**please retrieve access token from Gist (GitHub) and Slack using each client ID and client Secret**</u>.
 
-If you want to retrieve each access token using this plugin, please check [here](https://github.com/tanaikech/gislacks/authbysublime/).
+If you want to retrieve each access token using this plugin, please check [here](https://github.com/tanaikech/gislacks/tree/master/authbysublime).
 
 ### Authorization by Terminal
 1. Launch your terminal.
