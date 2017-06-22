@@ -1,5 +1,5 @@
 [
-    {"keys": ["ctrl+alt+q"],
+    {"keys": ["ctrl+alt+e"],
         "command": "gislacks_udouble",
     },
     {"keys": ["ctrl+alt+w"],
