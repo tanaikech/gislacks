@@ -1,6 +1,8 @@
 gislacks
 =====
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
+
 <a name="TOP"></a>
 # Overview
 This is a plugin of Sublime Text 3 for submitting files to both Gist and Slack.
@@ -225,6 +227,6 @@ gislack can be controlled by JSON data. Using this, gislack may be used except f
 
 * v1.0.1 (June 22, 2017)
 
-    Modify Key Bindings.
+    Modified Key Bindings.
 
 [TOP](#TOP)
