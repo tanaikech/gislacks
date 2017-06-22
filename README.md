@@ -152,8 +152,8 @@ Following explanations are for Sublime Text 3 using the plugin gislacks. <u>In o
 
 |   Works   |   Default shortcut key<br>(Windows, Linux)   |   Default shortcut key<br>(OS X)   | Command Palette<br>``ctrl + shift + p``,<br>``cmd + shift + p`` |
 |:----------|:----------:|:----------:|:----------:|
-| [New Submission for Slack and<br>Submission with Revision for Gist](#demo) ***1** | ``ctrl + alt + q`` | ``cmd + option + q`` | gislacks: Submit to Gist (update) and Slack |
-|New Submission for Slack and Gist | ``ctrl + alt + w`` | ``cmd + option + w`` | gislacks: Submit to Gist and Slack |
+| [New Submission for Slack and<br>Submission with Revision for Gist](#demo) ***1** | ``ctrl + alt + w`` | ``cmd + option + w`` | gislacks: Submit to Gist (update) and Slack |
+|New Submission for Slack and Gist | ``ctrl + alt + e`` | ``cmd + option + e`` | gislacks: Submit to Gist and Slack |
 | [New Submission for Gist](#updategistdemo) ***2** | ``ctrl + alt + a`` | ``cmd + option + a`` | gislacks: Submit to Gist |
 | [New Submission for Slack](#getslackfiledemo) | ``ctrl + alt + s`` | ``cmd + option + s`` | gislacks: Submit to Slack |
 | [Get Gist](#updategistdemo) ***3** | ``ctrl + alt + z`` | ``cmd + option + z`` | gislacks: Get Gists |

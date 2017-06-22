@@ -1,8 +1,8 @@
 [
-    {"keys": ["ctrl+alt+e"],
+    {"keys": ["ctrl+alt+w"],
         "command": "gislacks_udouble",
     },
-    {"keys": ["ctrl+alt+w"],
+    {"keys": ["ctrl+alt+e"],
         "command": "gislacks_double",
     },
     {"keys": ["ctrl+alt+a"],
